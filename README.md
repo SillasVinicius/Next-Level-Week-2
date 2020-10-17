@@ -1,5 +1,5 @@
 <h1 align="center">
-    Happy
+    Proffy
 </h1>
 
 <p align="center">
